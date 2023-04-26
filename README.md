@@ -2,7 +2,7 @@
 
 **流量调度**
 
-[流量控制](https://github.com/yuluofengchuiqu/yuluofengchuiqu.github.io.git)
+[流量控制](https://github.com/yuluofengchuiqu/yuluofengchuiqu.github.io/blob/main/Distributed/%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6.md)
 
 **数据调度**
 
