@@ -11,3 +11,9 @@
 **负载均衡**
 
 [Ribbon](https://yuluofengchuiqu.github.io/Ribbon/)
+
+
+
+### 分布式理论
+
+- [分布式理论](https://dunwu.github.io/blog/pages/286bb3/) - 关键词：`拜占庭将军`、`CAP`、`BASE`、`错误的分布式假设`
